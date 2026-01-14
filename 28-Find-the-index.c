@@ -1,5 +1,3 @@
-# Code
-```c []
 int strStr(char* haystack, char* needle) {
     int n, m, i ,j;
     m=strlen(needle);
@@ -16,4 +14,3 @@ int strStr(char* haystack, char* needle) {
     }
     return -1;
 }
-```
