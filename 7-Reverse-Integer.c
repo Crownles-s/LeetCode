@@ -1,5 +1,4 @@
-# Code (without using long)
-```c []
+//Code (without using long)
 int reverse(int x) {
     int dig;
     int result=0;
@@ -20,10 +19,8 @@ int reverse(int x) {
     }
     return result;
 }
-```
 
-# Code (if long is allowed)
-```c []
+//Code (if long is allowed)
 int reverse(int x) {
     int y;
     long result=0;
@@ -42,4 +39,3 @@ int reverse(int x) {
     else
         return result;
 }
-```
